@@ -16,3 +16,4 @@ def lambda_handler(event, context):
     greetings = greet + ' ' + name + '!'
     print(greetings)
     return greetings
+# this is the fundamental part of this 
